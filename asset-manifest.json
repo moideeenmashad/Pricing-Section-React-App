@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pricing-Section-React-App/static/css/main.c02547f5.css",
+    "main.js": "/Pricing-Section-React-App/static/js/main.45571a4a.js",
+    "static/js/787.3008680c.chunk.js": "/Pricing-Section-React-App/static/js/787.3008680c.chunk.js",
+    "index.html": "/Pricing-Section-React-App/index.html",
+    "main.c02547f5.css.map": "/Pricing-Section-React-App/static/css/main.c02547f5.css.map",
+    "main.45571a4a.js.map": "/Pricing-Section-React-App/static/js/main.45571a4a.js.map",
+    "787.3008680c.chunk.js.map": "/Pricing-Section-React-App/static/js/787.3008680c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c02547f5.css",
+    "static/js/main.45571a4a.js"
+  ]
+}
